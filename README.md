@@ -5,6 +5,8 @@
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 ### Sobre mim:
 
 😎 Marketing Digital
@@ -17,6 +19,5 @@
 
 ⚓ Programação e Mecânica
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![BMW](https://aleen42.github.io/badges/src/bmw.svg)
