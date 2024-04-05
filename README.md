@@ -6,6 +6,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
 ### Sobre mim:
 
@@ -17,7 +18,7 @@
 
 🥈 Medalhista da MaratonaTech
 
-⚓ Programação e Mecânica
+⚓ Programação, Robótica e Mecânica
 
 
 ![BMW](https://aleen42.github.io/badges/src/bmw.svg)
