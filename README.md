@@ -20,5 +20,4 @@
 
 ⚓ Programação, Robótica e Mecânica
 
-
-![BMW](https://aleen42.github.io/badges/src/bmw.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
