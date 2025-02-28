@@ -10,14 +10,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-
-😎 Marketing Digital
-
-⚡ Estudante do Ensino Médio
-
-🚀 Futura Engenheira Aeroespacial
-
-🥈 Medalhista da MaratonaTech
+Estudante de Engenharia da Computação na Universidade Positivo com experiência em programação, robótica e desenvolvimento de soluções tecnológicas. Apaixonada por inovação e automação. Medalhista da Maratona Tech (2022-2023), Programadora de sites e robôs com conhecimentos básicos, mentora do Manna Roosters (7033), equipe de robótica em competições nacionais e internacionais da FIRST Robotics Competition (FRC), membro do projeto de Altas Habilidades e Super Dotação.
 
 ⚓ Programação, Robótica e Mecânica
 
